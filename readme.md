@@ -54,6 +54,7 @@ This project provides an automated calling solution using Google Mobile Services
 
 ## Example about the systems are working
 
-![image](https://github.com/user-attachments/assets/819c8cf9-3464-48fa-b9f3-1d3766b49348)
-![image](https://github.com/user-attachments/assets/4a306b1a-805f-4d3c-b37a-b72f926693f5)
+| **Image**              |
+|----------------------|
+| <img src="https://github.com/user-attachments/assets/819c8cf9-3464-48fa-b9f3-1d3766b49348" alt="Project Diagram" width="375"/>      <img src="https://github.com/user-attachments/assets/4a306b1a-805f-4d3c-b37a-b72f926693f5" alt="Project Diagram" width="375"/>|
 
